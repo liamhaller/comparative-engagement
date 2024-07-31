@@ -2,6 +2,12 @@
 .Rhistory
 .Rapp.history
 
+#don't include data files
+.DS_Store
+*.csv
+*.dta
+*.RDS
+
 # Session Data files
 .RData
 .RDataTmp
