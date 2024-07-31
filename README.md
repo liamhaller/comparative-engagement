@@ -39,12 +39,7 @@ Below is an overview of the codebase:
 **Modeldevelopment.R**
 
 -   **Standardizing Numeric Variables**: Key numeric variables (e.g., age, democracy, religious, giveback, helpothers, learnsth, improvecoexistence, helpsociety, helprefugees) are standardized.
-
-```{=html}
-<!-- -->
-```
 -   **Converting Characters to Factors**: Educational attainment is converted to numeric factors and standardized.
-
 -   **Gender Encoding**: Gender is encoded as a binary variable.
 
 ### Question 1: Influence of Motivation on Engagement Type
